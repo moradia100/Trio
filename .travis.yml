@@ -1,0 +1,5 @@
+languege: cpp
+os: linux
+
+script:
+	- make 
